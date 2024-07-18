@@ -1,0 +1,19 @@
+body {
+    overflow-x: hidden;
+    background-image: url(Star.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+p {
+    color: lightgray;
+}
+
+h1 {
+    color: white;
+}
+
+li {
+    color: whitesmoke;
+}
